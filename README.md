@@ -4,6 +4,9 @@ This is a simple framework to preprocess and classify sleep stages based on
 recorded EEG/EMG/EOG data. It replicates and extends on top of the [Spindle 
 method](https://sleeplearning.ethz.ch). 
 
+### Updates
+* **10.08.2023** This code base was last modified on May 7 2021 and was an attempt to replicate the paper's results as close as possible in _Pytorch_. A very similar implementation is used in the website. 
+
 ## Installation
 First make a new python virtual environment and then install the package using pip:
 

@@ -1,0 +1,12 @@
+# Please note that there is one other .gitignores in /resultdir in order to keep the "empty" folder in the repo
+lsf.*
+.idea
+.DS_Store
+__pycache__
+*.pyc
+*.yaml
+mlruns/
+/dist/
+/*.egg-info/
+/build/
+docs/

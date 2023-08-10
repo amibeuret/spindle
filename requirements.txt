@@ -1,0 +1,14 @@
+h5py==2.10.0
+mne==0.19.2
+numpy==1.18.1
+pandas==0.25.3
+Pillow==6.2.2
+PyYAML==5.3
+scipy==1.4.1
+torch==1.6.0
+torchvision==0.7.0
+mlflow==1.5.0
+pyEDFlib==0.1.22
+sklearn==0.0
+matplotlib==3.1.2
+hmmlearn==0.2.3
